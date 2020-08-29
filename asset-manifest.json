@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/arwes-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/arwes-app/static/js/main.6dc05c35.chunk.js",
-    "main.js.map": "/arwes-app/static/js/main.6dc05c35.chunk.js.map",
+    "main.js": "/arwes-app/static/js/main.49264cf7.chunk.js",
+    "main.js.map": "/arwes-app/static/js/main.49264cf7.chunk.js.map",
     "runtime-main.js": "/arwes-app/static/js/runtime-main.be44dd10.js",
     "runtime-main.js.map": "/arwes-app/static/js/runtime-main.be44dd10.js.map",
     "static/js/2.2be84c67.chunk.js": "/arwes-app/static/js/2.2be84c67.chunk.js",
     "static/js/2.2be84c67.chunk.js.map": "/arwes-app/static/js/2.2be84c67.chunk.js.map",
     "index.html": "/arwes-app/index.html",
-    "precache-manifest.c9887da5f41b91708ccd7a847ddb3c13.js": "/arwes-app/precache-manifest.c9887da5f41b91708ccd7a847ddb3c13.js",
+    "precache-manifest.7cbe442d3364e3531e82991515ef4057.js": "/arwes-app/precache-manifest.7cbe442d3364e3531e82991515ef4057.js",
     "service-worker.js": "/arwes-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/arwes-app/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.2be84c67.chunk.js.LICENSE.txt": "/arwes-app/static/js/2.2be84c67.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.be44dd10.js",
     "static/js/2.2be84c67.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6dc05c35.chunk.js"
+    "static/js/main.49264cf7.chunk.js"
   ]
 }
