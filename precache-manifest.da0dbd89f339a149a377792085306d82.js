@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8de2764ad853915b983fd736849f2458",
+    "revision": "0607b99f5d036df4dee5283e93206440",
     "url": "/arwes-app/index.html"
   },
   {
-    "revision": "4f2222441dd5029d8a27",
+    "revision": "64490d07260892737ff9",
     "url": "/arwes-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arwes-app/static/js/2.2be84c67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f2222441dd5029d8a27",
-    "url": "/arwes-app/static/js/main.49264cf7.chunk.js"
+    "revision": "64490d07260892737ff9",
+    "url": "/arwes-app/static/js/main.fa18af26.chunk.js"
   },
   {
     "revision": "be8b600fb5920a4b873b",
