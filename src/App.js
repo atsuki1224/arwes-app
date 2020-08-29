@@ -7,7 +7,7 @@ const App = () => (
   <ThemeProvider theme={createTheme()}>
     <Arwes animate show>
     <Logo animate size={300} />
-        <h3><Words animate>A cyberpunk UI project</Words></h3>
+        <h3><Words animate>TEST TEST</Words></h3>
         <p><Words animate>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, amet
         cupiditate laboriosam sunt libero aliquam, consequatur alias ducimus adipisci
